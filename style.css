@@ -1,0 +1,14 @@
+body {
+background: rgb(139,242,168);
+background: linear-gradient(180deg, rgba(139,242,168,1) 0%, rgba(160,242,158,1) 0%, rgba(15,189,255,1) 100%);
+}
+form, h1 {
+  text-align: center;
+  background-color: rgba(255,255,255,.5);
+   border-radius: 50px;
+  padding: 10px;
+}
+
+input, select {
+  border-radius: 30px;
+}
